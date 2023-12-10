@@ -7,7 +7,7 @@
 png2jpg改でAutomatic1111生成画像を変換した場合にプロンプト冒頭に"parameters: "が混入していた問題が発生していました。  
 本ツールを使用することで変換済みの画像を一括で修正することができます。  
 プロンプト冒頭に誤って入っていた"parameters: "のテキストが削除されます。
-なお、png2jpg改のバグは2023/12/10に修正済みです。png2jpg改はpng2jpg-for-a1111-and-NAIに名称変更してGithubで公開しています。
+なお、png2jpg改のバグは2023/12/10に修正済みです。png2jpg改は[png2jpg-for-a1111-and-NAI](https://github.com/Takenoko3333/png2jpg-for-a1111-and-NAI)に名称変更してGithubで公開しています。
 
 ## 前提
 Python環境
